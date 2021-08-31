@@ -1,0 +1,485 @@
+VFX_DefaultBolt
+steel mace
+steel dagger
+spiked club
+steel broadsword
+steel shortsword
+imperial shortsword
+steel spear
+steel tanto
+imperial broadsword
+iron longsword
+iron shortsword
+nordic claymore
+steel dai-katana
+iron claymore
+silver longsword
+ebony shortsword
+ebony longsword
+silver shortsword
+daedric longsword
+nordic battle axe
+steel axe
+iron battle axe
+steel claymore
+steel katana
+steel saber
+steel wakizashi
+long bow
+iron arrow
+steel staff
+steel war axe
+steel longsword
+steel club
+steel battle axe
+steel warhammer
+steel halberd
+steel crossbow
+steel throwing star
+steel throwing knife
+steel dart
+chitin dagger
+chitin shortsword
+chitin club
+chitin war axe
+chitin spear
+chitin short bow
+chitin throwing star
+iron dagger
+iron tanto
+iron wakizashi
+iron broadsword
+iron saber
+iron club
+iron mace
+iron warhammer
+iron war axe
+iron spear
+iron halberd
+daedric battle axe
+daedric claymore
+daedric club
+daedric dagger
+daedric dai-katana
+daedric dart
+daedric katana
+daedric long bow
+daedric mace
+daedric shortsword
+daedric spear
+daedric staff
+daedric tanto
+daedric wakizashi
+daedric war axe
+daedric warhammer
+dreugh club
+dreugh staff
+dwarven battle axe
+dwarven claymore
+dwarven crossbow
+dwarven halberd
+dwarven mace
+dwarven shortsword
+dwarven spear
+dwarven war axe
+dwarven warhammer
+ebony broadsword
+ebony dart
+ebony mace
+ebony spear
+ebony staff
+ebony throwing star
+ebony war axe
+glass claymore
+glass dagger
+glass halberd
+glass longsword
+glass staff
+glass throwing knife
+glass throwing star
+glass war axe
+iron throwing knife
+short bow
+silver claymore
+silver dagger
+silver dart
+silver spear
+silver staff
+silver throwing star
+silver war axe
+wooden staff
+nordic broadsword
+Iron Long Spear
+lugrub's axe
+magic_bolt
+steel blade of heaven
+ebony wizard's staff
+steel jinkblade of the aegis
+fiend tanto
+bonemold arrow
+dire viperarrow
+6th bell hammer
+dwarven war axe_redas
+bonemold long bow
+clutterbane
+water spear
+spear_of_light
+fireblade
+icebreaker
+stormblade
+spiderbite
+flamestar
+shardstar
+viperstar
+demon tanto
+corkbulb arrow
+chitin arrow
+arrow of wasting flame
+silver arrow
+glass arrow
+ebony arrow
+daedric arrow
+corkbulb bolt
+iron bolt
+steel bolt
+silver bolt
+bonemold bolt
+orcish bolt
+flame_bolt
+shard_bolt
+spark_bolt
+viper_bolt
+flame arrow
+shard arrow
+spark arrow
+viper arrow
+steel arrow
+arrow of wasting shard
+arrow of wasting spark
+arrow of wasting viper
+grey shaft of holding
+grey shaft of nonsense
+grey shaft of unraveling
+demon katana
+steel longbow
+demon longbow
+peacemaker
+cruel flameblade
+cruel shardblade
+cruel sparkblade
+cruel viperblade
+cruel flamesword
+cruel shardsword
+cruel sparksword
+cruel vipersword
+steel jinkblade
+steel jinksword
+steel firesword
+steel frostsword
+steel stormsword
+steel poisonsword
+iron flameblade
+iron shardblade
+iron sparkblade
+iron viperblade
+iron flamecleaver
+iron shardcleaver
+iron sparkcleaver
+iron vipercleaver
+iron flamesword
+iron sparksword
+iron shardsword
+iron vipersword
+iron flamemace
+iron shardmace
+iron sparkmace
+iron sparkaxe
+iron viperaxe
+iron flameslayer
+iron shardslayer
+iron sparkslayer
+iron viperslayer
+iron flameskewer
+iron shardskewer
+iron sparkskewer
+iron viperskewer
+iron flamemauler
+iron sparkmauler
+iron shardmauler
+iron vipermauler
+wooden staff of peace
+wooden staff of war
+wooden staff of shaming
+wooden staff of chastening
+wooden staff of divine
+firebite sword
+firebite star
+firebite war axe
+firebite dagger
+firebite club
+shockbite mace
+shockbite halberd
+shockbite battle axe
+shockbite war axe
+shockbite warhammer
+last wish
+icicle
+foeburner
+snowy crown
+last rites
+cruel flame bolt
+cruel shard bolt
+cruel spark bolt
+cruel viper bolt
+cruel flamearrow
+cruel shardarrow
+cruel sparkarrow
+cruel viperarrow
+cruel flamestar
+cruel sparkstar
+cruel shardstar
+cruel viperstar
+dire flameblade
+dire shardblade
+dire sparkblade
+dire viperblade
+dire flamesword
+dire shardsword
+dire sparksword
+dire vipersword
+orcish warhammer
+orcish battle axe
+steel flameblade
+steel shardblade
+steel sparkblade
+steel viperblade
+steel flamesword
+steel shardsword
+steel sparksword
+steel vipersword
+steel flamemace
+steel shardmace
+steel sparkmace
+steel vipermace
+steel flameaxe
+steel sparkaxe
+steel shardaxe
+steel viperaxe
+steel flameslayer
+steel shardslayer
+steel sparkslayer
+steel viperslayer
+steel flamescythe
+steel shardscythe
+steel sparkscythe
+steel viperscythe
+steel flamecleaver
+steel shardcleaver
+steel sparkcleaver
+steel vipercleaver
+steel flameskewer
+steel shardskewer
+steel sparkskewer
+steel viperskewer
+steel flamemauler
+steel shardmauler
+steel sparkmauler
+steel vipermauler
+flying viper
+steel staff of peace
+steel staff of war
+steel staff of shaming
+steel staff of chastening
+steel staff of divine judgement
+steel staff of the ancestors
+battle axe of wounds
+war axe of wounds
+warhammer of wounds
+silver staff of reckoning
+dire flame bolt
+dire shard bolt
+dire spark bolt
+dire viper bolt
+dire flamearrow
+dire shardarrow
+dire sparkarrow
+wild flameblade
+wild shardblade
+wild sparkblade
+wild viperblade
+wild flamesword
+wild shardsword
+wild sparksword
+wild vipersword
+glass jinkblade
+dwemer jinksword
+glass firesword
+glass frostsword
+glass stormsword
+glass poisonsword
+silver flameblade
+silver shardblade
+silver sparkblade
+silver viperblade
+silver flamesword
+silver shardsword
+silver sparksword
+silver vipersword
+silver flameaxe
+silver sparkaxe
+silver shardaxe
+silver viperaxe
+silver flameslayer
+silver shardslayer
+silver sparkslayer
+silver viperslayer
+silver flameskewer
+silver shardskewer
+silver sparkskewer
+silver viperskewer
+silver staff of peace
+steel warhammer of smiting
+steel broadsword of hewing
+steel claymore of hewing
+steel war axe of deep biting
+steel spear of impaling thrust
+steel dagger of swiftblade
+shortbow of sanguine sureflight
+throwing knife of sureflight
+gavel of the ordinator
+light staff
+merisan club
+spirit-eater
+daunting mace
+sword of white woe
+staff of the forefathers
+boethiah's walking stick
+mephala's teacher
+bound_longsword
+bound_mace
+bound_battle_axe
+bound_spear
+bound_longbow
+fiend katana
+fiend battle axe
+fiend spear
+fiend longbow
+silver staff of war
+divine judgement silver staff
+silver staff of chastening
+silver staff of shaming
+devil tanto
+devil katana
+devil spear
+devil longbow
+saint's black sword
+daedric wakizashi_hhst
+demon mace
+chargen dagger
+ebony staff caper
+war_axe_airan_ammu
+sunder
+keening
+cruel frostarrow
+dire frostarrow
+steelstaffancestors_ttsa
+cleaverstfelms
+crosierstllothis
+ebony_bow_auriel
+dwarven_hammer_volendrung
+devil_tanto_tgamg
+ebony_dagger_mehrunes
+bound_dagger
+ebony_staff_tges
+daedric dagger_mtas
+iron_arrow_uniq_judgement
+daedric_club_tgdc
+miner's pick
+glass_dagger_enamor
+sparkstar
+daedric_scourge_unique
+claymore_chrysamere_unique
+staff_magnus_unique
+spear_mercy_unique
+longbow_shadows_unique
+claymore_iceblade_unique
+staff_hasedoki_unique
+warhammer_crusher_unique
+katana_goldbrand_unique
+dagger_fang_unique
+longsword_umbra_unique
+axe_queen_of_bats_unique
+shock_bolt
+shield_bolt
+dagoth dagger
+mehrunes'_razor_unique
+azura_star_unique
+mace of molag bal_unique
+erur_dan_spear_unique
+ane_teria_mace_unique
+conoon_chodala_axe_unique
+Rusty_Dagger_UNIQUE
+false_sunder
+fork_horripilation_unique
+widowmaker_unique
+bonebiter_bow_unique
+herder_crook
+iron fork
+cloudcleaver_unique
+sunder_fake
+we_hellfirestaff
+we_stormforge
+we_temreki
+staff_of_llevule
+Dagger of Judgement
+we_illkurok
+Silver Dagger_Hanin Cursed
+ebony_staff_trebonius
+Fury
+Greed
+VFX_DestructBolt
+VFX_PoisonBolt
+VFX_RestoreBolt
+banhammer_unique
+VFX_AlterationBolt
+VFX_ConjureBolt
+VFX_FrostBolt
+VFX_MysticismBolt
+VFX_IllusionBolt
+VFX_Multiple2
+VFX_Multiple3
+VFX_Multiple4
+VFX_Multiple5
+VFX_Multiple6
+VFX_Multiple7
+VFX_Multiple8
+racerbeak
+Wind of Ahaz
+Karpal's Friend
+we_shimsil
+iron spider dagger
+steel spider blade
+imperial netch blade
+glass netch dagger
+claymore_Agustas
+ebony spear_hrce_unique
+lightofday_unique
+glass stormblade
+daedric_crescent_unique
+silver_staff_dawn_uniq
+Airan_Ahhe's_Spirit_Spear_uniq
+katana_bluebrand_unique
+glass dagger_Dae_cursed
+glass claymore_magebane
+daedric warhammer_ttgd
+dart_uniq_judgement
+Stormkiss
+dwarven axe_soultrap
+silver staff of hunger
+daedric dagger_soultrap
+dwarven halberd_soultrap
+fiend spear_Dae_cursed
+ebony broadsword_Dae_cursed
+iron shardaxe
+dwe_jinksword_curse_Unique
+iron dagger_telasero_unique

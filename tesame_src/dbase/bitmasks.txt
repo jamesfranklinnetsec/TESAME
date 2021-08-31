@@ -1,0 +1,5 @@
+
+// TYPE,OWNERTYPE,Bit0,Bit1,Bit2,etc...
+
+FLAG,NPC_,Female,Essential,Respawn,Enabled,Autocalc stats
+DATA,CELL,,Has water,,Illegal to sleep here

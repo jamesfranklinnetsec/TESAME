@@ -1,0 +1,42 @@
+// List of subitems 
+
+NAME ID
+FNAM Name
+MODL Model filename
+RNAM Race name
+CNAM Class name
+ANAM Faction
+BNAM Graphics filename (Body)
+KNAM Graphics filename (Hair)
+AIDT AI Data
+DODT Travel Location Data
+DNAM Travel Location Name
+AI_W AI Wander data
+AI_T AI Travel data
+AI_E AI Excort data
+AI_A AI Activate
+NPCO NPC Inventory item
+NPCS NPC Spell
+NPDT NPC Data
+SCRI ID of Attached Script
+FLAG Flags (Bitmask)
+CNDT AI Package Cell Reference
+
+SCHD Script Header
+SCDT Script Data (Compiled script)
+SCTX Script Text (Uncompiled script)
+
+HEDR Mod Header
+MAST Master filename
+DATA Data
+
+WEAT Weather data
+REGN Region
+RGNN Region Name
+
+FLTV Float value
+INTV Integer value
+
+INDX Index
+
+NNAM Chance of none
